@@ -1,1 +1,2 @@
 This is base update
+This is a new line
