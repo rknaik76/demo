@@ -4,6 +4,9 @@
 name: Azure App Service - demo1976(Production), Build and deploy DotnetCore app
 
 on:
+  workflow_dispatch:
+
+on:
   push:
     branches:
       - master
